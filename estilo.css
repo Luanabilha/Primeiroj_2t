@@ -34,19 +34,7 @@ h1 {
    width: 100%;
    height: 80px;
 }
-.conteudo {
-   position: absolute;
-   width: 100%;
-
+.imagem01{
+  display: flex;
+  justify-content: center;
 }
-.imagem01 {
-   display: flex;
-   justify-content: center;
-
-}
-.rodape {
-
-  position: absolute;
-  bottom: 0;
-}
-   
